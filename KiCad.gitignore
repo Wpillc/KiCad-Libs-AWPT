@@ -1,5 +1,8 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 
+# allow lib files 
+!*.lib
+
 # Temporary files
 *.000
 *.bak
