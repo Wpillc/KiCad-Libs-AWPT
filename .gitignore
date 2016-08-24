@@ -1,0 +1,7 @@
+# Don't ignore these files
+!*.lib
+
+#ignore these files
+*.bak
+*.bck
+*.dcm
